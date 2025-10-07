@@ -189,7 +189,7 @@ const ConstructionUpdates = () => {
                 Stay Informed About Every Milestone
               </h3>
               <p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-                We're committed to transparency and keeping our investors updated at every stage of development.
+                We&apos;re committed to transparency and keeping our investors updated at every stage of development.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="#contact" className="btn-gold text-lg px-8 py-4">

@@ -121,7 +121,7 @@ const Contact = () => {
                 inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
               }`}
             >
-              We're here to assist you with any questions or inquiries. Reach out to us anytime — our team is ready to provide the support and information you need.
+              We&apos;re here to assist you with any questions or inquiries. Reach out to us anytime — our team is ready to provide the support and information you need.
             </p>
           </div>
 
@@ -163,7 +163,7 @@ const Contact = () => {
                       <CheckCircle className="w-10 h-10 text-green-600" />
                     </div>
                     <h4 className="text-2xl font-bold text-gray-900 mb-2">Thank You!</h4>
-                    <p className="text-gray-600">Your message has been sent successfully. We'll get back to you soon.</p>
+                    <p className="text-gray-600">Your message has been sent successfully. We&apos;ll get back to you soon.</p>
                   </div>
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-6">
