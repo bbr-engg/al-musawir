@@ -25,7 +25,8 @@ https://github.com/bbr-engg/al-musawir.git
 
 1. Go to: [https://github.com/settings/tokens](https://github.com/settings/tokens)
 2. Click **"Generate new token"** → **"Generate new token (classic)"**
-3. Name: `al-musawir-website`
+3. Name: `
+`
 4. Select scopes:
    - ✅ `repo` (all repository permissions)
 5. Click **"Generate token"**
