@@ -1,0 +1,30 @@
+👔 PLACE YOUR LEADERSHIP PHOTOS HERE
+
+You need to place TWO photos in this folder:
+
+1. sh-faisal.jpg (Shaikh Faisal Maqbool - CEO)
+   - The photo in the office with green flag
+   - Seated in executive chair
+   - Professional business attire
+
+2. ali-imran.jpg (Ali Imran Shaikh - Director)
+   - The photo at podium/speaking
+   - Blue tie, navy suit
+   - Professional setting
+
+After placing both files:
+1. Make sure they're named exactly: sh-faisal.jpg and ali-imran.jpg
+2. They should be in: /Users/babarsultan/Documents/personal/al-musawir/public/
+3. Restart server: Ctrl+C then npm run dev
+4. Your leadership section will show these photos in modern cards!
+
+The new layout:
+- Modern card design (side by side)
+- Gold badges showing CEO/Director
+- Experience years displayed
+- Expertise tags
+- Professional quotes
+- Hover zoom effects
+
+✨ Magazine-quality professional presentation!
+

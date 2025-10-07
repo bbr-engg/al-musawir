@@ -1,0 +1,25 @@
+📸 PLACE YOUR BUILDING IMAGE HERE
+
+Copy your building image file to this folder and name it:
+building.jpg
+
+This is the stunning high-rise building image you showed me - the one with:
+- Modern architecture
+- Evening/sunset lighting
+- Illuminated windows
+- Beautiful corner view
+
+After adding the image:
+1. Place it here as: building.jpg
+2. Restart the development server (Ctrl+C, then npm run dev)
+3. Your building image will appear in the Project Overview section!
+
+The image will be displayed with:
+✅ Hover zoom effect
+✅ "Under Construction" badge
+✅ Professional shadows and borders
+✅ Optimized loading
+
+Supported formats: .jpg, .jpeg, .png, .webp
+Recommended size: 1200x800px or larger for best quality
+

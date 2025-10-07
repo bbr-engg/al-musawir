@@ -1,0 +1,20 @@
+📸 PLACE YOUR BUILDING IMAGE HERE
+
+Your image file should be named: buidling.jpg
+
+Copy it to this folder:
+/Users/babarsultan/Documents/personal/al-musawir/public/buidling.jpg
+
+The stunning high-rise building image with evening lighting!
+
+After placing the file:
+1. Make sure it's named exactly: buidling.jpg
+2. Restart the server: Ctrl+C then npm run dev
+3. Hard refresh your browser: Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac)
+
+Troubleshooting:
+- Check the filename is exact: buidling.jpg (not building.jpg)
+- Check it's in the /public folder
+- Try clearing browser cache
+- Check browser console for any 404 errors
+
