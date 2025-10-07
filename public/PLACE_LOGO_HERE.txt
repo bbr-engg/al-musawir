@@ -1,0 +1,14 @@
+📍 PLACE YOUR LOGO HERE
+
+Copy your logo file to this folder and name it:
+al-musawir-logo.png
+
+The logo you showed me with the golden buildings and Arabic calligraphy
+should be placed here as: al-musawir-logo.png
+
+After adding the logo:
+1. Restart the development server (Ctrl+C, then npm run dev)
+2. Your logo will appear in the header and footer automatically!
+
+See LOGO_SETUP.md for detailed instructions.
+
