@@ -110,7 +110,8 @@ const Hero = () => {
             {stats.map((stat, index) => (
               <div
                 key={index}
-                className="glass-effect rounded-2xl p-6 hover:scale-105 transition-transform duration-300 border border-gold-400/20"
+                className="glass-effect rounded-2xl p-6 hover:scale-105 transition-transform duration-300 border-2 border-gold-400/50 shadow-lg"
+                style={{ backgroundColor: 'rgba(251, 191, 36, 0.1)' }}
               >
                 <stat.icon className="w-10 h-10 text-gold-400 mx-auto mb-3 drop-shadow-lg" />
                 <div className="text-3xl font-bold text-white mb-2 drop-shadow-md">{stat.value}</div>
